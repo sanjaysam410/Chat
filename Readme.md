@@ -1,4 +1,4 @@
-# Chat_application
+# Chat_Application
 
 *COMPANY* : CODTECH IT SOLUTIONS 
 *NAME* : SANJAY SAMALA 
