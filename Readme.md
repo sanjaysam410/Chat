@@ -25,12 +25,6 @@ A dynamic web-based chat application built with HTML, CSS, and JavaScript that e
 - CSS3
 - JavaScript (ES6+)
 
-## How to Use
-
-
-2. Enter your name or nickname to join the chat.
-3. Type your message and press send to chat with others.
-
 ## Project Structure
 
 ```
