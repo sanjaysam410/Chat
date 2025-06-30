@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 Your Name - SANJAY SAMALA (sanjaysamala4100@gmail.com)
 
-Project Link: https://github.com/sanjaysam410/Chat.git)
+Project Link: https://github.com/sanjaysam410/Chat.git
 
 OUTPUT ::
 
